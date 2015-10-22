@@ -303,6 +303,7 @@ sudo fc-cache -f -v
   - https://maxfile.ro
   - http://puush.me
   - https://transfer.sh
+  - https://curl.io
   - https://madokami.com/
 - Upload tools
   - [Moe](https://github.com/Imakethings/Moe)
@@ -310,6 +311,7 @@ sudo fc-cache -f -v
   - [gone](https://github.com/kori/gone)
   - [uguush](https://github.com/jschx/uguush)
   - [puush](http://puush.me/)
+  - [cURL](https://curl.io/)
 - Screenshot tools
   - [maim](https://github.com/naelstrof/maim)
   - [Import](http://www.imagemagick.org/script/import.php)
