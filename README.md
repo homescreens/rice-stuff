@@ -194,6 +194,7 @@ inside a graphical user interface is often called a terminal window.
 - http://ionicons.com
 - https://github.com/chrissimpkins/codeface
 - https://github.com/Tecate/bitmap-fonts
+- https://github.com/brabadu/awesome-fonts
 
 On Debian/Ubuntu you need to enable bitmap fonts first:
 
