@@ -83,6 +83,7 @@ It can be part of a desktop environment (DE) or be used standalone.
 
 #### OSX
 - [Spectacle](https://www.spectacleapp.com/)
+- [Mjolnir](https://github.com/sdegutis/mjolnir)
 - [Phoenix](https://github.com/kasper/phoenix)
 
 
