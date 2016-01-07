@@ -287,6 +287,7 @@ sudo fc-cache -f -v
 - [Archey](https://github.com/djmelik/archey)
 - [Alsi](https://github.com/trizen/alsi)
 - [Ufetch](https://github.com/jschx/ufetch)
+- [fetch](https://github.com/dylanaraps/fetch)
 
 #### Windows
 - [Cmdfetch](https://github.com/hal-ullr/cmdfetch)
