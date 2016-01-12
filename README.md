@@ -301,7 +301,6 @@ sudo fc-cache -f -v
   - https://mixtape.moe
   - https://catbox.moe
   - https://u.teknik.io
-  - https://mixtape.moe
   - http://1339.cf
   - https://maxfile.ro
   - http://puush.me
