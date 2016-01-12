@@ -75,7 +75,7 @@ It can be part of a desktop environment (DE) or be used standalone.
   - [Orbment](https://github.com/Cloudef/orbment)
 
 #### Windows
-- [Blackbox](http://blackbox4windows.com/)
+- [Blackbox](http://blackbox4windows.com/) - [bbZero mirror(no registration)](http://spoonm.org/share/bbzero/)
 - [Windawesome](https://windawesome.codeplex.com)
 - [bugn](https://code.google.com/p/bugn/wiki/bugn)
 - [qt](https://github.com/Vibex/qt.pi)
@@ -208,7 +208,7 @@ sudo fc-cache -f -v
 
 #### Windows
 - https://code.google.com/p/gdipp
-- https://code.google.com/p/mactype - [installer](http://spoonm.org/MacType.exe)
+- https://code.google.com/p/mactype - [installer](http://spoonm.org/share/mactype.exe)
 
 #### Linux
 - https://wiki.archlinux.org/index.php/Infinality
@@ -301,7 +301,6 @@ sudo fc-cache -f -v
   - https://mixtape.moe
   - https://catbox.moe
   - https://u.teknik.io
-  - https://mixtape.moe
   - http://1339.cf
   - https://maxfile.ro
   - http://puush.me
