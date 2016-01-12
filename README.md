@@ -75,7 +75,7 @@ It can be part of a desktop environment (DE) or be used standalone.
   - [Orbment](https://github.com/Cloudef/orbment)
 
 #### Windows
-- [Blackbox](http://blackbox4windows.com/)
+- [Blackbox](http://blackbox4windows.com/) - [bbZero mirror(no registration)](http://spoonm.org/share/bbzero/)
 - [Windawesome](https://windawesome.codeplex.com)
 - [bugn](https://code.google.com/p/bugn/wiki/bugn)
 - [qt](https://github.com/Vibex/qt.pi)
