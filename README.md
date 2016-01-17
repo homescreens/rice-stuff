@@ -295,6 +295,7 @@ sudo fc-cache -f -v
 #### OSX
 - [Screenfetch](https://github.com/KittyKatt/screenFetch)
 - [osxinfo](https://github.com/yrmt/osxinfo)
+- [fetch](https://github.com/dylanaraps/fetch)
 
 # Sharing it
 - File hosts
