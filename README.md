@@ -110,10 +110,11 @@ Bars (aka panels) are used to display everything from current desktops to active
 system informaton. They have very similiar behaviour to the bar you would expect
 on Windows and OSX.
 #### Linux
+- [Candybar](https://github.com/Lokaltog/candybar)
 - [Dzen](https://wiki.archlinux.org/index.php/Dzen)
 - [Lemonbar](https://github.com/LemonBoy/bar)
 - [Tint](https://wiki.archlinux.org/index.php/Tint2)
-- [n30f](https://github.com/kyubiko/n30f)
+- [n30f](https://github.com/sdhand/n30f)
 
 #### Windows
 *Placeholder*
@@ -146,7 +147,9 @@ inside a graphical user interface is often called a terminal window.
 #### Linux
 - [termite](https://github.com/thestinger/termite)
 - [urxvt](https://wiki.archlinux.org/index.php/Rxvt-unicode)
+  - [urxvt-perls](https://github.com/muennich/urxvt-perls)
 - [st](http://st.suckless.org/)
+  - [st-patches](http://st.suckless.org/patches/)
 - [Terminator](https://wiki.archlinux.org/index.php/Terminator)
 - [xfce4-terminal](http://docs.xfce.org/apps/terminal/start)
 
