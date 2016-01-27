@@ -84,6 +84,7 @@ It can be part of a desktop environment (DE) or be used standalone.
 #### OSX
 - [Spectacle](https://www.spectacleapp.com/)
 - [Mjolnir](https://github.com/sdegutis/mjolnir)
+- [KWM](https://github.com/koekeishiya/kwm)
 - [Phoenix](https://github.com/kasper/phoenix)
 
 
@@ -103,7 +104,7 @@ looking at [window managers](#window-managers).
 - [Gridmove](http://jgpaiva.dcmembers.com/gridmove.html)
 
 #### OSX
-*Placeholder*
+- [hs.tiling](https://github.com/dsanson/hs.tiling)
 
 # Bars
 Bars (aka panels) are used to display everything from current desktops to active windows to
@@ -120,7 +121,7 @@ on Windows and OSX.
 *Placeholder*
 
 #### OSX
-*Placeholder*
+- [bar](https://github.com/callahanrts/bar)
 
 # Program Launchers
 A launcher is a program displaying a dialog to search for an action, typically launch an application. Many are not limited to just this, and allow you to perform other operations such as open up files and folders on your computer.
