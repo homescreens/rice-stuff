@@ -131,6 +131,7 @@ A launcher is a program displaying a dialog to search for an action, typically l
   - [dmenu2](https://bitbucket.org/melek/dmenu2)
 - [lighthouse](https://github.com/emgram769/lighthouse)
 - [interrobang](https://github.com/TrilbyWhite/interrobang)
+- [thinglaunch](http://git.r-36.net/thinglaunch/)
 - [rofi](https://github.com/DaveDavenport/rofi)
 
 #### OSX
