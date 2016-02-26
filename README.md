@@ -87,7 +87,6 @@ It can be part of a desktop environment (DE) or be used standalone.
 - [KWM](https://github.com/koekeishiya/kwm)
 - [Phoenix](https://github.com/kasper/phoenix)
 
-
 # Tiling
 The following applications are purely created for tiling. They bring nothing
 else to the table. If you're looking for something more complete consider
@@ -333,3 +332,4 @@ sudo fc-cache -f -v
   - http://ix.io
   - http://sprunge.us
   - https://ptpb.pw
+  - https://pste.pw
