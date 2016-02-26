@@ -166,7 +166,10 @@ inside a graphical user interface is often called a terminal window.
 
 # Shells
 - [Zsh](http://www.zsh.org/)
+  - [Oh-My-Zsh](https://github.com/robbyrussell/oh-my-zsh)
+  - [Prezto](https://github.com/sorin-ionescu/prezto)
 - [Fish](http://fishshell.com/)
+  - [Fisherman](http://fisherman.sh/)
 
 # Color schemes
 - http://terminal.sexy
