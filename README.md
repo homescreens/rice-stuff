@@ -295,15 +295,16 @@ sudo fc-cache -f -v
 - [Archey](https://github.com/djmelik/archey)
 - [Alsi](https://github.com/trizen/alsi)
 - [Ufetch](https://github.com/jschx/ufetch)
-- [fetch](https://github.com/dylanaraps/fetch)
+- [Neofetch](https://github.com/dylanaraps/neofetch)
 
 #### Windows
 - [Cmdfetch](https://github.com/hal-ullr/cmdfetch)
+- [Neofetch](https://github.com/dylanaraps/neofetch)
 
 #### OSX
 - [Screenfetch](https://github.com/KittyKatt/screenFetch)
 - [osxinfo](https://github.com/yrmt/osxinfo)
-- [fetch](https://github.com/dylanaraps/fetch)
+- [Neofetch](https://github.com/dylanaraps/neofetch)
 
 # Sharing it
 - File hosts
