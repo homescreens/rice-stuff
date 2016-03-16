@@ -195,6 +195,8 @@ inside a graphical user interface is often called a terminal window.
 - http://www.stripegenerator.com
 - http://www.tartanmaker.com
 - https://www.flickr.com
+- https://deviantart.com
+- http://gratisography.com
 
 # Fonts
 ## Where to get fonts?
